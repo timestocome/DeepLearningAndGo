@@ -13,3 +13,5 @@ I plan to use this code as starter code for other projects once the book has bee
 # Useful things
 Deep Minds Alpha Go site https://deepmind.com/research/alphago/
 
+Blondie24 https://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838/
+
