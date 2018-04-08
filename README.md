@@ -1,6 +1,7 @@
 # DeepLearningAndGo
 
 Code adapted from the Manning book Deep Learning and the Game of Go
+
 https://www.manning.com/books/deep-learning-and-the-game-of-go
 
 # Author's code repository
@@ -12,4 +13,3 @@ I plan to use this code as starter code for other projects once the book has bee
 # Useful things
 Deep Minds Alpha Go site https://deepmind.com/research/alphago/
 
-The data files are all on his GitHub, no need to reproduce them here
